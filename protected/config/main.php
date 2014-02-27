@@ -109,8 +109,8 @@ return array(
         'db' => array(
             'connectionString' => 'mysql:host=localhost;dbname=sistemaICI_2',
             'emulatePrepare' => true,
-            'username' => 'usuarioICI_2',
-            'password' => '1jtn8500',
+            'username' => '',
+            'password' => '',
             'charset' => 'utf8',
         ),
         'authManager' => array(
